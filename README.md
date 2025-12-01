@@ -4,6 +4,7 @@ This project explores Netflix’s catalog to understand what kind of content the
 
 
 📌 Objectives
+
 Analyze Netflix’s content library
 Compare movies vs TV shows
 Study popular genres and countries
